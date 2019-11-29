@@ -1,0 +1,195 @@
+{
+  "luis_schema_version": "4.0.0",
+  "versionId": "0.1",
+  "name": "ML_QArobot",
+  "desc": "",
+  "culture": "zh-cn",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "001 UIC info."
+    },
+    {
+      "name": "002 Type of UIC"
+    },
+    {
+      "name": "003 UIC President"
+    },
+    {
+      "name": "004 UIC climate"
+    },
+    {
+      "name": "005 UIC environment"
+    },
+    {
+      "name": "006 Can Visit"
+    },
+    {
+      "name": "007 UIC nearby"
+    },
+    {
+      "name": "008 UIC area"
+    },
+    {
+      "name": "009 UIC Address"
+    },
+    {
+      "name": "010 UIC New address"
+    },
+    {
+      "name": "011 UIC number of student"
+    },
+    {
+      "name": "012 UIC website"
+    },
+    {
+      "name": "013 UIC website for enroll"
+    },
+    {
+      "name": "014 UIC Admissions Office hour"
+    },
+    {
+      "name": "015 UIC Admissions Office Contact"
+    },
+    {
+      "name": "016 Free for Contact"
+    },
+    {
+      "name": "017 UIC Admissions office QQ"
+    },
+    {
+      "name": "018 UIC Academic Office Number"
+    },
+    {
+      "name": "019 UIC SAO Number"
+    },
+    {
+      "name": "020 UIC Cultural Activity"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "介绍一下你们的大学",
+      "intent": "001 UIC info.",
+      "entities": []
+    },
+    {
+      "text": "你们大学是怎样的？",
+      "intent": "001 UIC info.",
+      "entities": []
+    },
+    {
+      "text": "你们学校是一所什么样的大学？",
+      "intent": "001 UIC info.",
+      "entities": []
+    },
+    {
+      "text": "可以来学校参观吗？",
+      "intent": "006 Can Visit",
+      "entities": []
+    },
+    {
+      "text": "学校周边环境怎么样?",
+      "intent": "007 UIC nearby",
+      "entities": []
+    },
+    {
+      "text": "学校官方网址是什么？",
+      "intent": "012 UIC website",
+      "entities": []
+    },
+    {
+      "text": "学校所在城市气候怎么样？",
+      "intent": "004 UIC climate",
+      "entities": []
+    },
+    {
+      "text": "学校招生办公室的上班时间？",
+      "intent": "014 UIC Admissions Office hour",
+      "entities": []
+    },
+    {
+      "text": "学校招生办的联系方式？",
+      "intent": "015 UIC Admissions Office Contact",
+      "entities": []
+    },
+    {
+      "text": "学校招生网址是多少？",
+      "intent": "013 UIC website for enroll",
+      "entities": []
+    },
+    {
+      "text": "学校有几个校区，地址在哪？",
+      "intent": "009 UIC Address",
+      "entities": []
+    },
+    {
+      "text": "学校有哪些特色的校园文化活动？",
+      "intent": "020 UIC Cultural Activity",
+      "entities": []
+    },
+    {
+      "text": "学校有多少在校生？",
+      "intent": "011 UIC number of student",
+      "entities": []
+    },
+    {
+      "text": "学校环境怎么样？",
+      "intent": "005 UIC environment",
+      "entities": []
+    },
+    {
+      "text": "学校的占地面积有多大？",
+      "intent": "008 UIC area",
+      "entities": []
+    },
+    {
+      "text": "学校类别是什么？",
+      "intent": "002 Type of UIC",
+      "entities": []
+    },
+    {
+      "text": "学校近期是否会搬校区？",
+      "intent": "010 UIC New address",
+      "entities": []
+    },
+    {
+      "text": "学生处的电话是？",
+      "intent": "019 UIC SAO Number",
+      "entities": []
+    },
+    {
+      "text": "招生热线免费吗？",
+      "intent": "016 Free for Contact",
+      "entities": []
+    },
+    {
+      "text": "教务处的电话是多少？",
+      "intent": "018 UIC Academic Office Number",
+      "entities": []
+    },
+    {
+      "text": "有招生咨询QQ吗？",
+      "intent": "017 UIC Admissions office QQ",
+      "entities": []
+    },
+    {
+      "text": "校长是谁？",
+      "intent": "003 UIC President",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

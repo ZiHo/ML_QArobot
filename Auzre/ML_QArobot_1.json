@@ -1,0 +1,985 @@
+{
+  "luis_schema_version": "4.0.0",
+  "versionId": "0.1",
+  "name": "ML_QArobot",
+  "desc": "",
+  "culture": "zh-cn",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "001"
+    },
+    {
+      "name": "002"
+    },
+    {
+      "name": "003"
+    },
+    {
+      "name": "004"
+    },
+    {
+      "name": "005"
+    },
+    {
+      "name": "006"
+    },
+    {
+      "name": "007"
+    },
+    {
+      "name": "008"
+    },
+    {
+      "name": "009"
+    },
+    {
+      "name": "010"
+    },
+    {
+      "name": "011"
+    },
+    {
+      "name": "012"
+    },
+    {
+      "name": "013"
+    },
+    {
+      "name": "014"
+    },
+    {
+      "name": "015"
+    },
+    {
+      "name": "016"
+    },
+    {
+      "name": "017"
+    },
+    {
+      "name": "018"
+    },
+    {
+      "name": "019"
+    },
+    {
+      "name": "020"
+    },
+    {
+      "name": "021"
+    },
+    {
+      "name": "022"
+    },
+    {
+      "name": "023"
+    },
+    {
+      "name": "024"
+    },
+    {
+      "name": "025"
+    },
+    {
+      "name": "026"
+    },
+    {
+      "name": "027"
+    },
+    {
+      "name": "028"
+    },
+    {
+      "name": "029"
+    },
+    {
+      "name": "030"
+    },
+    {
+      "name": "031"
+    },
+    {
+      "name": "032"
+    },
+    {
+      "name": "033"
+    },
+    {
+      "name": "034"
+    },
+    {
+      "name": "035"
+    },
+    {
+      "name": "036"
+    },
+    {
+      "name": "037"
+    },
+    {
+      "name": "038"
+    },
+    {
+      "name": "039"
+    },
+    {
+      "name": "040"
+    },
+    {
+      "name": "041"
+    },
+    {
+      "name": "042"
+    },
+    {
+      "name": "043"
+    },
+    {
+      "name": "044"
+    },
+    {
+      "name": "045"
+    },
+    {
+      "name": "046"
+    },
+    {
+      "name": "047"
+    },
+    {
+      "name": "048"
+    },
+    {
+      "name": "049"
+    },
+    {
+      "name": "050"
+    },
+    {
+      "name": "051"
+    },
+    {
+      "name": "052"
+    },
+    {
+      "name": "053"
+    },
+    {
+      "name": "054"
+    },
+    {
+      "name": "055"
+    },
+    {
+      "name": "056"
+    },
+    {
+      "name": "057"
+    },
+    {
+      "name": "058"
+    },
+    {
+      "name": "059"
+    },
+    {
+      "name": "060"
+    },
+    {
+      "name": "061"
+    },
+    {
+      "name": "062"
+    },
+    {
+      "name": "063"
+    },
+    {
+      "name": "064"
+    },
+    {
+      "name": "065"
+    },
+    {
+      "name": "066"
+    },
+    {
+      "name": "067"
+    },
+    {
+      "name": "068"
+    },
+    {
+      "name": "069"
+    },
+    {
+      "name": "070"
+    },
+    {
+      "name": "071"
+    },
+    {
+      "name": "072"
+    },
+    {
+      "name": "073"
+    },
+    {
+      "name": "074"
+    },
+    {
+      "name": "075"
+    },
+    {
+      "name": "076"
+    },
+    {
+      "name": "077"
+    },
+    {
+      "name": "078"
+    },
+    {
+      "name": "079"
+    },
+    {
+      "name": "080"
+    },
+    {
+      "name": "081"
+    },
+    {
+      "name": "082"
+    },
+    {
+      "name": "083"
+    },
+    {
+      "name": "084"
+    },
+    {
+      "name": "085"
+    },
+    {
+      "name": "086"
+    },
+    {
+      "name": "087"
+    },
+    {
+      "name": "088"
+    },
+    {
+      "name": "089"
+    },
+    {
+      "name": "090"
+    },
+    {
+      "name": "091"
+    },
+    {
+      "name": "092"
+    },
+    {
+      "name": "093"
+    },
+    {
+      "name": "094"
+    },
+    {
+      "name": "095"
+    },
+    {
+      "name": "096"
+    },
+    {
+      "name": "097"
+    },
+    {
+      "name": "098"
+    },
+    {
+      "name": "099"
+    },
+    {
+      "name": "100"
+    },
+    {
+      "name": "101"
+    },
+    {
+      "name": "102"
+    },
+    {
+      "name": "103"
+    },
+    {
+      "name": "104"
+    },
+    {
+      "name": "105"
+    },
+    {
+      "name": "106"
+    },
+    {
+      "name": "107"
+    },
+    {
+      "name": "108"
+    },
+    {
+      "name": "109"
+    },
+    {
+      "name": "110"
+    },
+    {
+      "name": "111"
+    },
+    {
+      "name": "112"
+    },
+    {
+      "name": "113"
+    },
+    {
+      "name": "114"
+    },
+    {
+      "name": "115"
+    },
+    {
+      "name": "116"
+    },
+    {
+      "name": "117"
+    },
+    {
+      "name": "118"
+    },
+    {
+      "name": "119"
+    },
+    {
+      "name": "120"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "你们学校是一所什么样的大学？",
+      "intent": "001",
+      "entities": []
+    },
+    {
+      "text": "学校类别是什么？",
+      "intent": "002",
+      "entities": []
+    },
+    {
+      "text": "校长是谁？",
+      "intent": "003",
+      "entities": []
+    },
+    {
+      "text": "学校所在城市气候怎么样？",
+      "intent": "004",
+      "entities": []
+    },
+    {
+      "text": "学校环境怎么样？",
+      "intent": "005",
+      "entities": []
+    },
+    {
+      "text": "可以来学校参观吗？",
+      "intent": "006",
+      "entities": []
+    },
+    {
+      "text": "学校周边环境怎么样？",
+      "intent": "007",
+      "entities": []
+    },
+    {
+      "text": "学校的占地面积有多大？",
+      "intent": "008",
+      "entities": []
+    },
+    {
+      "text": "学校有几个校区，地址在哪？",
+      "intent": "009",
+      "entities": []
+    },
+    {
+      "text": "学校近期是否会搬校区？",
+      "intent": "010",
+      "entities": []
+    },
+    {
+      "text": "学校有多少在校生？",
+      "intent": "011",
+      "entities": []
+    },
+    {
+      "text": "学校官方网址是什么？",
+      "intent": "012",
+      "entities": []
+    },
+    {
+      "text": "学校招生网址是多少？",
+      "intent": "013",
+      "entities": []
+    },
+    {
+      "text": "学校招生办公室的上班时间？",
+      "intent": "014",
+      "entities": []
+    },
+    {
+      "text": "学校招生办的联系方式？",
+      "intent": "015",
+      "entities": []
+    },
+    {
+      "text": "招生热线免费吗？",
+      "intent": "016",
+      "entities": []
+    },
+    {
+      "text": "有招生咨询QQ吗？",
+      "intent": "017",
+      "entities": []
+    },
+    {
+      "text": "教务处的电话是多少？",
+      "intent": "018",
+      "entities": []
+    },
+    {
+      "text": "学生处的电话是？",
+      "intent": "019",
+      "entities": []
+    },
+    {
+      "text": "学校有哪些特色的校园文化活动？",
+      "intent": "020",
+      "entities": []
+    },
+    {
+      "text": "学校有开放日吗？",
+      "intent": "021",
+      "entities": []
+    },
+    {
+      "text": "学校有哪些社团？",
+      "intent": "022",
+      "entities": []
+    },
+    {
+      "text": "学校的师资力量如何？",
+      "intent": "023",
+      "entities": []
+    },
+    {
+      "text": "学校的教学基础设施怎么样？",
+      "intent": "024",
+      "entities": []
+    },
+    {
+      "text": "学校教学楼有电梯吗？",
+      "intent": "025",
+      "entities": []
+    },
+    {
+      "text": "图书馆有多大？",
+      "intent": "026",
+      "entities": []
+    },
+    {
+      "text": "图书馆对外开放吗？",
+      "intent": "027",
+      "entities": []
+    },
+    {
+      "text": "学校有游泳馆吗？",
+      "intent": "028",
+      "entities": []
+    },
+    {
+      "text": "有篮球馆吗？",
+      "intent": "029",
+      "entities": []
+    },
+    {
+      "text": "学校的校园风气怎么样？",
+      "intent": "030",
+      "entities": []
+    },
+    {
+      "text": "学校有哪些科研成果？",
+      "intent": "031",
+      "entities": []
+    },
+    {
+      "text": "有博士硕士点吗？",
+      "intent": "032",
+      "entities": []
+    },
+    {
+      "text": "学校设有哪些学院？",
+      "intent": "033",
+      "entities": []
+    },
+    {
+      "text": "学校允许修双学位吗？",
+      "intent": "034",
+      "entities": []
+    },
+    {
+      "text": "副修可以拿学位么？",
+      "intent": "035",
+      "entities": []
+    },
+    {
+      "text": "学校奖学金有哪几类？",
+      "intent": "036",
+      "entities": []
+    },
+    {
+      "text": "在校生出国留学交流的机会多吗？",
+      "intent": "037",
+      "entities": []
+    },
+    {
+      "text": "学校有外国学生吗？",
+      "intent": "038",
+      "entities": []
+    },
+    {
+      "text": "学校男女比例如何？",
+      "intent": "039",
+      "entities": []
+    },
+    {
+      "text": "入学后能转专业吗？需要什么样的条件？",
+      "intent": "040",
+      "entities": []
+    },
+    {
+      "text": "贵校的学生在大学期间有几次调专业机会？ ",
+      "intent": "041",
+      "entities": []
+    },
+    {
+      "text": "转专业要花钱吗？",
+      "intent": "042",
+      "entities": []
+    },
+    {
+      "text": "各专业简介？",
+      "intent": "043",
+      "entities": []
+    },
+    {
+      "text": "学校理科专业都有哪些？",
+      "intent": "044",
+      "entities": []
+    },
+    {
+      "text": "学校文科专业都有哪些？",
+      "intent": "045",
+      "entities": []
+    },
+    {
+      "text": "文理兼收的专业有哪些？",
+      "intent": "046",
+      "entities": []
+    },
+    {
+      "text": "贵校哪些专业适合女生报考？ ",
+      "intent": "047",
+      "entities": []
+    },
+    {
+      "text": "什么是GPA？",
+      "intent": "048",
+      "entities": []
+    },
+    {
+      "text": "学校能保研吗？ ",
+      "intent": "049",
+      "entities": []
+    },
+    {
+      "text": "各专业都可以报考研究生吗？",
+      "intent": "050",
+      "entities": []
+    },
+    {
+      "text": "学校的考研录取率是多少？",
+      "intent": "051",
+      "entities": []
+    },
+    {
+      "text": "毕业后拿到的是什么文凭？",
+      "intent": "052",
+      "entities": []
+    },
+    {
+      "text": "校园兼职多吗？ ",
+      "intent": "053",
+      "entities": []
+    },
+    {
+      "text": "校园招聘多吗？",
+      "intent": "054",
+      "entities": []
+    },
+    {
+      "text": "应届毕业生的就业情况如何？",
+      "intent": "055",
+      "entities": []
+    },
+    {
+      "text": "各学院在哪个校区？",
+      "intent": "056",
+      "entities": []
+    },
+    {
+      "text": "学校开设了哪些专业？",
+      "intent": "057",
+      "entities": []
+    },
+    {
+      "text": "学校有哪些优势专业？",
+      "intent": "058",
+      "entities": []
+    },
+    {
+      "text": "海南省新生入学奖学金获奖条件？",
+      "intent": "059",
+      "entities": []
+    },
+    {
+      "text": "浙江省新生入学奖学金获奖条件？",
+      "intent": "060",
+      "entities": []
+    },
+    {
+      "text": "江苏省新生入学奖学金获奖条件？",
+      "intent": "061",
+      "entities": []
+    },
+    {
+      "text": "山东省新生入学奖学金获奖条件？",
+      "intent": "062",
+      "entities": []
+    },
+    {
+      "text": "上海市新生入学奖学金获奖条件？",
+      "intent": "063",
+      "entities": []
+    },
+    {
+      "text": "其它750分满分的省、市、区新生入学奖学金获奖条件？",
+      "intent": "064",
+      "entities": []
+    },
+    {
+      "text": "华信奖学金获得要求是什么？",
+      "intent": "065",
+      "entities": []
+    },
+    {
+      "text": "广东提前一批全额奖学金获得要求是什么？",
+      "intent": "066",
+      "entities": []
+    },
+    {
+      "text": "广东提前一批半额奖学金获得要求是什么？",
+      "intent": "067",
+      "entities": []
+    },
+    {
+      "text": "珠海籍新生奖学金获得要求是什么？",
+      "intent": "068",
+      "entities": []
+    },
+    {
+      "text": "广东综合评价录取奖学金获得要求是什么？",
+      "intent": "069",
+      "entities": []
+    },
+    {
+      "text": "奖学金续得有什么要求？",
+      "intent": "070",
+      "entities": []
+    },
+    {
+      "text": "UIC设有哪些在校奖助学金？",
+      "intent": "071",
+      "entities": []
+    },
+    {
+      "text": "专业及课程如何设置？",
+      "intent": "072",
+      "entities": []
+    },
+    {
+      "text": "教学质量怎样保证？",
+      "intent": "073",
+      "entities": []
+    },
+    {
+      "text": "贵校颁发的香港浸会大学的学士学位证为什么有“荣誉”二字？",
+      "intent": "074",
+      "entities": []
+    },
+    {
+      "text": " UIC的教育模式是怎样的？",
+      "intent": "075",
+      "entities": []
+    },
+    {
+      "text": "什么是博雅教育？",
+      "intent": "076",
+      "entities": []
+    },
+    {
+      "text": "什么是全人教育？",
+      "intent": "077",
+      "entities": []
+    },
+    {
+      "text": "什么是四维教育？",
+      "intent": "078",
+      "entities": []
+    },
+    {
+      "text": "学生入读后能否适应UIC的全英文教学环境？",
+      "intent": "079",
+      "entities": []
+    },
+    {
+      "text": "舍堂（UIC宿舍）的管理情况怎么样?",
+      "intent": "080",
+      "entities": []
+    },
+    {
+      "text": "学校提供哪些辅导及个人成长帮助?",
+      "intent": "081",
+      "entities": []
+    },
+    {
+      "text": "出国的途径有哪些？",
+      "intent": "082",
+      "entities": []
+    },
+    {
+      "text": "学校是2+2吗？",
+      "intent": "083",
+      "entities": []
+    },
+    {
+      "text": "副修课程有哪些？",
+      "intent": "084",
+      "entities": []
+    },
+    {
+      "text": "在UIC可修读什么小语种？",
+      "intent": "085",
+      "entities": []
+    },
+    {
+      "text": "UIC暑期多久？",
+      "intent": "086",
+      "entities": []
+    },
+    {
+      "text": "什么是暑期课程？",
+      "intent": "087",
+      "entities": []
+    },
+    {
+      "text": "海外暑期课程有哪些国家？",
+      "intent": "088",
+      "entities": []
+    },
+    {
+      "text": "海外暑期课程有哪些学校？",
+      "intent": "089",
+      "entities": []
+    },
+    {
+      "text": "海外暑期课程学习多久？",
+      "intent": "090",
+      "entities": []
+    },
+    {
+      "text": "海外暑期课程费用多少？",
+      "intent": "091",
+      "entities": []
+    },
+    {
+      "text": "海外暑期课程有学分吗？可以转学分吗？",
+      "intent": "092",
+      "entities": []
+    },
+    {
+      "text": "暑期课程是必须参加的吗？",
+      "intent": "093",
+      "entities": []
+    },
+    {
+      "text": "在UIC暑假，学生只是去修暑期课程吗？",
+      "intent": "094",
+      "entities": []
+    },
+    {
+      "text": "交换生项目有哪些国家、学校？",
+      "intent": "095",
+      "entities": []
+    },
+    {
+      "text": "大几可申请交换生？",
+      "intent": "096",
+      "entities": []
+    },
+    {
+      "text": "申请交换生什么条件？",
+      "intent": "097",
+      "entities": []
+    },
+    {
+      "text": "交换生可以出去学习多久？",
+      "intent": "098",
+      "entities": []
+    },
+    {
+      "text": "交换生的费用？",
+      "intent": "099",
+      "entities": []
+    },
+    {
+      "text": "为什么要申请交换生？",
+      "intent": "100",
+      "entities": []
+    },
+    {
+      "text": "交换生的名额？",
+      "intent": "101",
+      "entities": []
+    },
+    {
+      "text": "UIC管理严格吗？",
+      "intent": "102",
+      "entities": []
+    },
+    {
+      "text": "出勤率规定？",
+      "intent": "103",
+      "entities": []
+    },
+    {
+      "text": "学生会被退学吗？",
+      "intent": "104",
+      "entities": []
+    },
+    {
+      "text": "GPA是怎么计算的？",
+      "intent": "105",
+      "entities": []
+    },
+    {
+      "text": "UIC评分体系？",
+      "intent": "106",
+      "entities": []
+    },
+    {
+      "text": "毕业证书学分要求？",
+      "intent": "107",
+      "entities": []
+    },
+    {
+      "text": "学位证书成绩要求？",
+      "intent": "108",
+      "entities": []
+    },
+    {
+      "text": "学位证书等级分类？",
+      "intent": "109",
+      "entities": []
+    },
+    {
+      "text": "会计学专业的专业认证是指什么？",
+      "intent": "110",
+      "entities": []
+    },
+    {
+      "text": "UIC的课程结构和国内的大学有差别吗？",
+      "intent": "111",
+      "entities": []
+    },
+    {
+      "text": "同学在校期间可以去香港浸会大学吗？",
+      "intent": "112",
+      "entities": []
+    },
+    {
+      "text": "大几可参加HKBU暑期课程？",
+      "intent": "113",
+      "entities": []
+    },
+    {
+      "text": "香港浸会大学暑期课程报名绩点要求？",
+      "intent": "114",
+      "entities": []
+    },
+    {
+      "text": "香港浸会大学暑期课程费用大概多少？",
+      "intent": "115",
+      "entities": []
+    },
+    {
+      "text": "香港浸会大学暑期课程学习多久？",
+      "intent": "116",
+      "entities": []
+    },
+    {
+      "text": "香港浸会大学暑期课程学分可转吗？",
+      "intent": "117",
+      "entities": []
+    },
+    {
+      "text": "学生申请香港浸会大学研究生有优势吗？",
+      "intent": "118",
+      "entities": []
+    },
+    {
+      "text": "毕业生去海外读研的多吗？",
+      "intent": "119",
+      "entities": []
+    },
+    {
+      "text": "申请海外研究生学校会提供帮助吗？",
+      "intent": "120",
+      "entities": []
+    }
+  ],
+  "settings": []
+}
