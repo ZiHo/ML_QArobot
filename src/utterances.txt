@@ -1,0 +1,2575 @@
+{
+"text": "这是什么大学？",
+"intent": "001",
+"entities": []
+},
+{
+"text": "UIC是什么样的大学",
+"intent": "001",
+"entities": []
+},
+{
+"text": "北师港浸大是什么大学",
+"intent": "001",
+"entities": []
+},
+{
+"text": "学校类别是什么？",
+"intent": "002",
+"entities": []
+},
+{
+"text": "学校的办学模式是什么？",
+"intent": "002",
+"entities": []
+},
+{
+"text": "贵校的办学模式是什么？",
+"intent": "002",
+"entities": []
+},
+{
+"text": "贵校类别是什么？",
+"intent": "002",
+"entities": []
+},
+{
+"text": "校长是谁？ ",
+"intent": "003",
+"entities": []
+},
+{
+"text": "汤涛是谁？",
+"intent": "003",
+"entities": []
+},
+{
+"text": "你们的校长是谁？",
+"intent": "003",
+"entities": []
+},
+{
+"text": "贵校校长？",
+"intent": "003",
+"entities": []
+},
+{
+"text": "学校所在城市气候怎么样？ ",
+"intent": "004",
+"entities": []
+},
+{
+"text": "珠海的气候怎么样？",
+"intent": "004",
+"entities": []
+},
+{
+"text": "UIC这边气候如何？",
+"intent": "004",
+"entities": []
+},
+{
+"text": "贵校所在城市气候如何？",
+"intent": "004",
+"entities": []
+},
+{
+"text": "校长从事什么样的研究？",
+"intent": "005",
+"entities": []
+},
+{
+"text": "汤涛从事何种研究？",
+"intent": "005",
+"entities": []
+},
+{
+"text": "校长有什么研究领域吗？",
+"intent": "005",
+"entities": []
+},
+{
+"text": "汤涛研究什么？",
+"intent": "005",
+"entities": []
+},
+{
+"text": "可以来学校参观吗？ ",
+"intent": "006",
+"entities": []
+},
+{
+"text": "可以来学校看看嘛？",
+"intent": "006",
+"entities": []
+},
+{
+"text": "可以参观UIC吗",
+"intent": "006",
+"entities": []
+},
+{
+"text": "参观学校？",
+"intent": "006",
+"entities": []
+},
+{
+"text": "禁止参观学校吗？",
+"intent": "006",
+"entities": []
+},
+{
+"text": "学校周边环境怎么样？ ",
+"intent": "007",
+"entities": []
+},
+{
+"text": "校周围环境？",
+"intent": "007",
+"entities": []
+},
+{
+"text": "学校附近交通方便吗？",
+"intent": "007",
+"entities": []
+},
+{
+"text": "学校的占地面积有多大？",
+"intent": "008",
+"entities": []
+},
+{
+"text": "学校有多大？",
+"intent": "008",
+"entities": []
+},
+{
+"text": "学校大吗？",
+"intent": "008",
+"entities": []
+},
+{
+"text": "学校面积小吗？",
+"intent": "008",
+"entities": []
+},
+{
+"text": "学校有几个校区，地址在哪？",
+"intent": "009",
+"entities": []
+},
+{
+"text": "学校的地理位置？",
+"intent": "009",
+"entities": []
+},
+{
+"text": "UIC地址？",
+"intent": "009",
+"entities": []
+},
+{
+"text": "贵校地点？",
+"intent": "009",
+"entities": []
+},
+{
+"text": "学校近期是否会搬校区？",
+"intent": "010",
+"entities": []
+},
+{
+"text": "听说学校搬地方了？",
+"intent": "010",
+"entities": []
+},
+{
+"text": "学校的新校区在哪里？",
+"intent": "010",
+"entities": []
+},
+{
+"text": "什么时候能去新校区",
+"intent": "010",
+"entities": []
+},
+{
+"text": "学校有多少在校生？",
+"intent": "011",
+"entities": []
+},
+{
+"text": "学校在校生人数？",
+"intent": "011",
+"entities": []
+},
+{
+"text": "学校目前有多少人？",
+"intent": "011",
+"entities": []
+},
+{
+"text": "UIC总共有多少学生？",
+"intent": "011",
+"entities": []
+},
+{
+"text": "学校官方网址是什么？",
+"intent": "012",
+"entities": []
+},
+{
+"text": "学校官网？",
+"intent": "012",
+"entities": []
+},
+{
+"text": "能给一下学校官网吗？",
+"intent": "012",
+"entities": []
+},
+{
+"text": "学校招生网址是多少？ ",
+"intent": "013",
+"entities": []
+},
+{
+"text": "招生页面",
+"intent": "013",
+"entities": []
+},
+{
+"text": "网上怎么了解招生相关的信息？",
+"intent": "013",
+"entities": []
+},
+{
+"text": "学校有招生相关资料吗？",
+"intent": "013",
+"entities": []
+},
+{
+"text": "学校招生办公室的上班时间？ ",
+"intent": "014",
+"entities": []
+},
+{
+"text": "校招办的上班时间？",
+"intent": "014",
+"entities": []
+},
+{
+"text": "学校招生部门的上班时间？",
+"intent": "014",
+"entities": []
+},
+{
+"text": "学校招生办的联系方式？",
+"intent": "015",
+"entities": []
+},
+{
+"text": "招办联系方式？",
+"intent": "015",
+"entities": []
+},
+{
+"text": "招生办的电话有吗？",
+"intent": "015",
+"entities": []
+},
+{
+"text": "招生热线免费吗？ ",
+"intent": "016",
+"entities": []
+},
+{
+"text": "招生电话要钱吗？",
+"intent": "016",
+"entities": []
+},
+{
+"text": "打招办电话的费用怎么算？",
+"intent": "016",
+"entities": []
+},
+{
+"text": "有招生咨询QQ吗？ ",
+"intent": "017",
+"entities": []
+},
+{
+"text": "有咨询的QQ吗？",
+"intent": "017",
+"entities": []
+},
+{
+"text": "教务处的电话是多少？ ",
+"intent": "018",
+"entities": []
+},
+{
+"text": "教务处联系方式？",
+"intent": "018",
+"entities": []
+},
+{
+"text": "教务处有电话吗？",
+"intent": "018",
+"entities": []
+},
+{
+"text": "学生处的电话是？ ",
+"intent": "019",
+"entities": []
+},
+{
+"text": "学生处联系方式？",
+"intent": "019",
+"entities": []
+},
+{
+"text": "学校有哪些特色的校园文化活动？",
+"intent": "020",
+"entities": []
+},
+{
+"text": "学校文化活动多吗？",
+"intent": "020",
+"entities": []
+},
+{
+"text": "学校有特色活动吗？",
+"intent": "020",
+"entities": []
+},
+{
+"text": "学校除了学习外有什么活动吗？",
+"intent": "020",
+"entities": []
+},
+{
+"text": "学校有开放日吗？ ",
+"intent": "021",
+"entities": []
+},
+{
+"text": "校开放日什么时候？",
+"intent": "021",
+"entities": []
+},
+{
+"text": "UIC开放日？",
+"intent": "021",
+"entities": []
+},
+{
+"text": "UIC社团？",
+"intent": "022",
+"entities": []
+},
+{
+"text": "学校有哪些社团？ ",
+"intent": "022",
+"entities": []
+},
+{
+"text": "学校社团？",
+"intent": "022",
+"entities": []
+},
+{
+"text": "有什么学生组织吗？",
+"intent": "022",
+"entities": []
+},
+{
+"text": "学校的师资力量如何？",
+"intent": "023",
+"entities": []
+},
+{
+"text": "UIC的师资力量？",
+"intent": "023",
+"entities": []
+},
+{
+"text": "学校老师怎么样？",
+"intent": "023",
+"entities": []
+},
+{
+"text": "学校的教学基础设施怎么样？",
+"intent": "024",
+"entities": []
+},
+{
+"text": "学校教学设施怎么样？",
+"intent": "024",
+"entities": []
+},
+{
+"text": "校内设施怎么样？",
+"intent": "024",
+"entities": []
+},
+{
+"text": "UIC有什么学校设施？",
+"intent": "024",
+"entities": []
+},
+{
+"text": "学校教学楼有电梯吗？ ",
+"intent": "025",
+"entities": []
+},
+{
+"text": "教学楼有电梯吗？",
+"intent": "025",
+"entities": []
+},
+{
+"text": "需要爬楼梯上课吗？",
+"intent": "025",
+"entities": []
+},
+{
+"text": "图书馆有多大？ ",
+"intent": "026",
+"entities": []
+},
+{
+"text": "UIC图书馆怎么样？",
+"intent": "026",
+"entities": []
+},
+{
+"text": "学习资源中心情况？",
+"intent": "026",
+"entities": []
+},
+{
+"text": "学校藏书情况？",
+"intent": "026",
+"entities": []
+},
+{
+"text": "图书馆对外开放吗？ ",
+"intent": "027",
+"entities": []
+},
+{
+"text": "学习资源中心对外开放吗？",
+"intent": "027",
+"entities": []
+},
+{
+"text": "图书馆只能学生进吗？",
+"intent": "027",
+"entities": []
+},
+{
+"text": "学校有游泳馆吗？ ",
+"intent": "028",
+"entities": []
+},
+{
+"text": "学校有游泳的地方吗？",
+"intent": "028",
+"entities": []
+},
+{
+"text": "UIC有游泳馆吗？",
+"intent": "028",
+"entities": []
+},
+{
+"text": "有篮球馆吗？ ",
+"intent": "029",
+"entities": []
+},
+{
+"text": "学校有篮球场吗？",
+"intent": "029",
+"entities": []
+},
+{
+"text": "学校打篮球的地方？",
+"intent": "029",
+"entities": []
+},
+{
+"text": "UIC打篮球有地方吗？",
+"intent": "029",
+"entities": []
+},
+{
+"text": "学校的校园风气怎么样？ ",
+"intent": "030",
+"entities": []
+},
+{
+"text": "UIC校风？",
+"intent": "030",
+"entities": []
+},
+{
+"text": "学校学风怎么样？",
+"intent": "030",
+"entities": []
+},
+{
+"text": "学校有哪些科研成果？",
+"intent": "031",
+"entities": []
+},
+{
+"text": "学校有科研成果吗？",
+"intent": "031",
+"entities": []
+},
+{
+"text": "学校有什么突出的研究成果吗？",
+"intent": "031",
+"entities": []
+},
+{
+"text": "有博士硕士点吗？",
+"intent": "032",
+"entities": []
+},
+{
+"text": "UIC支持读博士和硕士吗？",
+"intent": "032",
+"entities": []
+},
+{
+"text": "北师港浸大有博士和硕士吗？",
+"intent": "032",
+"entities": []
+},
+{
+"text": "学校设有哪些学院？",
+"intent": "033",
+"entities": []
+},
+{
+"text": "学校学院？",
+"intent": "033",
+"entities": []
+},
+{
+"text": "UIC专业？",
+"intent": "033",
+"entities": []
+},
+{
+"text": "学校允许修双学位吗？",
+"intent": "034",
+"entities": []
+},
+{
+"text": "学校支持双学位吗？",
+"intent": "034",
+"entities": []
+},
+{
+"text": "我想在UIC修双学位怎么办？",
+"intent": "034",
+"entities": []
+},
+{
+"text": "副修可以拿学位么？ ",
+"intent": "035",
+"entities": []
+},
+{
+"text": "副修有学位证吗？",
+"intent": "035",
+"entities": []
+},
+{
+"text": "副修是什么？",
+"intent": "035",
+"entities": []
+},
+{
+"text": "学校奖学金有哪几类？",
+"intent": "036",
+"entities": []
+},
+{
+"text": "学校奖学金种类？  ",
+"intent": "036",
+"entities": []
+},
+{
+"text": "学校有哪几种奖学金？",
+"intent": "036",
+"entities": []
+},
+{
+"text": "在校生出国留学交流的机会多吗？",
+"intent": "037",
+"entities": []
+},
+{
+"text": "UIC出国交流机会？",
+"intent": "037",
+"entities": []
+},
+{
+"text": "UIC有交换生的项目吗？",
+"intent": "037",
+"entities": []
+},
+{
+"text": "学校支持出国交流吗？",
+"intent": "037",
+"entities": []
+},
+{
+"text": "学校有外国学生吗？ ",
+"intent": "038",
+"entities": []
+},
+{
+"text": "学校有交换生来UIC吗",
+"intent": "038",
+"entities": []
+},
+{
+"text": "学校招外国学生吗？",
+"intent": "038",
+"entities": []
+},
+{
+"text": "学校男女比例如何？",
+"intent": "039",
+"entities": []
+},
+{
+"text": "UIC男女比例？",
+"intent": "039",
+"entities": []
+},
+{
+"text": "学校男女比？",
+"intent": "039",
+"entities": []
+},
+{
+"text": "如何转专业？",
+"intent": "040",
+"entities": []
+},
+{
+"text": "转专业有分数要求吗？",
+"intent": "040",
+"entities": []
+},
+{
+"text": "入学后什么时候可以转专业？",
+"intent": "040",
+"entities": []
+},
+{
+"text": "转专业的流程是怎样的？",
+"intent": "040",
+"entities": []
+},
+{
+"text": "贵校的学生在大学期间有几次调专业机会？",
+"intent": "041",
+"entities": []
+},
+{
+"text": "UIC学生有多少次转专业的机会？",
+"intent": "041",
+"entities": []
+},
+{
+"text": "转过一次专业还可以再转下一次吗？",
+"intent": "041",
+"entities": []
+},
+{
+"text": "北师港浸大的学生可以转多少次专业？",
+"intent": "041",
+"entities": []
+},
+{
+"text": "转专业要花钱吗？",
+"intent": "042",
+"entities": []
+},
+{
+"text": "转专业的相关费用？",
+"intent": "042",
+"entities": []
+},
+{
+"text": "转专业的费用是多少？",
+"intent": "042",
+"entities": []
+},
+{
+"text": "转专业有费用要求吗？",
+"intent": "042",
+"entities": []
+},
+{
+"text": "各专业简介？",
+"intent": "043",
+"entities": []
+},
+{
+"text": "UIC有什么专业？",
+"intent": "043",
+"entities": []
+},
+{
+"text": "UIC有哪些专业？",
+"intent": "043",
+"entities": []
+},
+{
+"text": "北师港浸大的特色专业是什么？",
+"intent": "043",
+"entities": []
+},
+{
+"text": "UIC专业介绍？",
+"intent": "043",
+"entities": []
+},
+{
+"text": "北师港浸大专业介绍？",
+"intent": "043",
+"entities": []
+},
+{
+"text": "学校理科专业都有哪些？",
+"intent": "044",
+"entities": []
+},
+{
+"text": "UIC有什么理科专业",
+"intent": "044",
+"entities": []
+},
+{
+"text": "北师港浸大有什么理科专业？",
+"intent": "044",
+"entities": []
+},
+{
+"text": "理科生可以在UIC选什么专业？",
+"intent": "044",
+"entities": []
+},
+{
+"text": "有什么专业适合理科生？",
+"intent": "044",
+"entities": []
+},
+{
+"text": "学校文科专业都有哪些？",
+"intent": "045",
+"entities": []
+},
+{
+"text": "UIC有什么文科专业",
+"intent": "045",
+"entities": []
+},
+{
+"text": "北师港浸大有什么文科专业？",
+"intent": "045",
+"entities": []
+},
+{
+"text": "文科生可以在UIC选什么专业？",
+"intent": "045",
+"entities": []
+},
+{
+"text": "有什么专业适合文科生？",
+"intent": "045",
+"entities": []
+},
+{
+"text": "文理兼收的专业有哪些？",
+"intent": "046",
+"entities": []
+},
+{
+"text": "有什么专业是无文理限制的？",
+"intent": "046",
+"entities": []
+},
+{
+"text": "文科和理科都可以报考的专业？",
+"intent": "046",
+"entities": []
+},
+{
+"text": "UIC有什么文理兼收的专业？",
+"intent": "046",
+"entities": []
+},
+{
+"text": "UIC没有文理限制的专业有什么？",
+"intent": "046",
+"entities": []
+},
+{
+"text": "贵校哪些专业适合女生报考？",
+"intent": "047",
+"entities": []
+},
+{
+"text": "UIC有哪些专业适合女生？",
+"intent": "047",
+"entities": []
+},
+{
+"text": "北师港浸大有哪些专业适合女生？",
+"intent": "047",
+"entities": []
+},
+{
+"text": "有什么适合女生的专业？",
+"intent": "047",
+"entities": []
+},
+{
+"text": "女生在哪些专业有优势？",
+"intent": "047",
+"entities": []
+},
+{
+"text": "适合女生的专业有哪些？",
+"intent": "047",
+"entities": []
+},
+{
+"text": "什么是GPA?",
+"intent": "048",
+"entities": []
+},
+{
+"text": "GPA是什么意思？",
+"intent": "048",
+"entities": []
+},
+{
+"text": "GPA是什么？",
+"intent": "048",
+"entities": []
+},
+{
+"text": "UIC的GPA？",
+"intent": "048",
+"entities": []
+},
+{
+"text": "UIC的成绩怎么计算？",
+"intent": "048",
+"entities": []
+},
+{
+"text": "学生成绩怎么计算？",
+"intent": "048",
+"entities": []
+},
+{
+"text": "学校能保研吗？",
+"intent": "049",
+"entities": []
+},
+{
+"text": "UIC如何申请保研？",
+"intent": "049",
+"entities": []
+},
+{
+"text": "UIC保研有什么条件？",
+"intent": "049",
+"entities": []
+},
+{
+"text": "北师港浸大如何申请保研？",
+"intent": "049",
+"entities": []
+},
+{
+"text": "保研的要求？",
+"intent": "049",
+"entities": []
+},
+{
+"text": "各专业都可以报考研究生吗？",
+"intent": "050",
+"entities": []
+},
+{
+"text": "不同专业报考研究生有限制吗？",
+"intent": "050",
+"entities": []
+},
+{
+"text": "有什么专业是可以报考研究生的？",
+"intent": "050",
+"entities": []
+},
+{
+"text": "有什么专业是不能报考研究生的？",
+"intent": "050",
+"entities": []
+},
+{
+"text": "学校的考研录取率是多少？",
+"intent": "051",
+"entities": []
+},
+{
+"text": "学校考研录取率高吗？",
+"intent": "051",
+"entities": []
+},
+{
+"text": "学校有多少人选择考研？",
+"intent": "051",
+"entities": []
+},
+{
+"text": "UIC的考研水平如何？",
+"intent": "051",
+"entities": []
+},
+{
+"text": "UIC学生选择考研的多吗？",
+"intent": "051",
+"entities": []
+},
+{
+"text": "UIC有多少学生考研会被录取？",
+"intent": "051",
+"entities": []
+},
+{
+"text": "毕业后拿到的是什么文凭？",
+"intent": "052",
+"entities": []
+},
+{
+"text": "UIC毕业生拿的证书是？",
+"intent": "052",
+"entities": []
+},
+{
+"text": "毕业后拿的是什么毕业证？",
+"intent": "052",
+"entities": []
+},
+{
+"text": "UIC毕业生拿的是什么毕业证？",
+"intent": "052",
+"entities": []
+},
+{
+"text": "UIC的毕业证和学位证书一样吗？",
+"intent": "052",
+"entities": []
+},
+{
+"text": "校园兼职多吗？",
+"intent": "053",
+"entities": []
+},
+{
+"text": "学校有什么勤工俭学的方式？",
+"intent": "053",
+"entities": []
+},
+{
+"text": "学校有提供兼职岗位吗？",
+"intent": "053",
+"entities": []
+},
+{
+"text": "UIC的兼职机会多不多？",
+"intent": "053",
+"entities": []
+},
+{
+"text": "UIC有学校官方的兼职吗？",
+"intent": "053",
+"entities": []
+},
+{
+"text": "校园招聘多吗",
+"intent": "054",
+"entities": []
+},
+{
+"text": "UIC的校招活动多吗？",
+"intent": "054",
+"entities": []
+},
+{
+"text": "UIC有没有校招活动？",
+"intent": "054",
+"entities": []
+},
+{
+"text": "有企业来UIC招人吗？",
+"intent": "054",
+"entities": []
+},
+{
+"text": "来UIC招人的企业多吗？",
+"intent": "054",
+"entities": []
+},
+{
+"text": "应届毕业生的就业情况如何？",
+"intent": "055",
+"entities": []
+},
+{
+"text": "UIC的毕业生好就业吗？",
+"intent": "055",
+"entities": []
+},
+{
+"text": "UIC的应届毕业生就业率如何？",
+"intent": "055",
+"entities": []
+},
+{
+"text": "毕业生的就业方向？",
+"intent": "055",
+"entities": []
+},
+{
+"text": "毕业生好找工作吗？",
+"intent": "055",
+"entities": []
+},
+{
+"text": "毕业后找到工作的比例是多少？",
+"intent": "055",
+"entities": []
+},
+{
+"text": "各学院在哪个校区？",
+"intent": "056",
+"entities": []
+},
+{
+"text": "不同学院会在不同校区吗？",
+"intent": "056",
+"entities": []
+},
+{
+"text": "不同学院的教学在同一个地方吗？",
+"intent": "056",
+"entities": []
+},
+{
+"text": "各专业的教学区有不一样吗？",
+"intent": "056",
+"entities": []
+},
+{
+"text": "学校开设了哪些专业？",
+"intent": "057",
+"entities": []
+},
+{
+"text": "UIC有哪些专业？",
+"intent": "057",
+"entities": []
+},
+{
+"text": "北师港浸大有哪些专业？",
+"intent": "057",
+"entities": []
+},
+{
+"text": "有什么专业？",
+"intent": "057",
+"entities": []
+},
+{
+"text": "学校有哪些优势专业？",
+"intent": "058",
+"entities": []
+},
+{
+"text": "UIC有什么优势专业？",
+"intent": "058",
+"entities": []
+},
+{
+"text": "北师港浸大有什么优势专业？",
+"intent": "058",
+"entities": []
+},
+{
+"text": "有什么优势专业？",
+"intent": "058",
+"entities": []
+},
+{
+"text": "海南省新生入学奖学金获奖条件？",
+"intent": "059",
+"entities": []
+},
+{
+"text": "海南省的奖学金条件？",
+"intent": "059",
+"entities": []
+},
+{
+"text": "海南省奖学金分数线？",
+"intent": "059",
+"entities": []
+},
+{
+"text": "海南省考生达到多少分可以拿到奖学金？",
+"intent": "059",
+"entities": []
+},
+{
+"text": "浙江省新生入学奖学金获奖条件？",
+"intent": "060",
+"entities": []
+},
+{
+"text": "浙江省的奖学金条件？",
+"intent": "060",
+"entities": []
+},
+{
+"text": "浙江省的奖学金分数线？",
+"intent": "060",
+"entities": []
+},
+{
+"text": "浙江省考生达到多少分可以拿到奖学金？",
+"intent": "060",
+"entities": []
+},
+{
+"text": "江苏省新生入学奖学金获奖条件？",
+"intent": "061",
+"entities": []
+},
+{
+"text": "江苏省的奖学金条件？",
+"intent": "061",
+"entities": []
+},
+{
+"text": "江苏省奖学金分数线？",
+"intent": "061",
+"entities": []
+},
+{
+"text": "江苏省考生达到多少分可以拿到奖学金？",
+"intent": "061",
+"entities": []
+},
+{
+"text": "山东省新生入学奖学金获奖条件？",
+"intent": "062",
+"entities": []
+},
+{
+"text": "山东省的奖学金条件？",
+"intent": "062",
+"entities": []
+},
+{
+"text": "山东省的奖学金分数线？",
+"intent": "062",
+"entities": []
+},
+{
+"text": "山东省考生达到多少分可以拿到奖学金？",
+"intent": "062",
+"entities": []
+},
+{
+"text": "上海市新生入学奖学金获奖条件？",
+"intent": "063",
+"entities": []
+},
+{
+"text": "上海市的奖学金条件？",
+"intent": "063",
+"entities": []
+},
+{
+"text": "上海市的奖学金分数线？",
+"intent": "063",
+"entities": []
+},
+{
+"text": "上海市考生达到多少分可以拿到奖学金？",
+"intent": "063",
+"entities": []
+},
+{
+"text": "其他750分满分的省、市、区新生入学奖学金获奖条件？",
+"intent": "064",
+"entities": []
+},
+{
+"text": "750分满分的地区奖学金条件？",
+"intent": "064",
+"entities": []
+},
+{
+"text": "750分满分的地区要达到多少分才可以拿到奖学金？",
+"intent": "064",
+"entities": []
+},
+{
+"text": "750分地区的奖学金分数线？",
+"intent": "064",
+"entities": []
+},
+{
+"text": "华信奖学金获得要求是什么？",
+"intent": "065",
+"entities": []
+},
+{
+"text": "如何获得华信奖学金？",
+"intent": "065",
+"entities": []
+},
+{
+"text": "申请华信奖学金有什么要求？",
+"intent": "065",
+"entities": []
+},
+{
+"text": "华信奖学金？",
+"intent": "065",
+"entities": []
+},
+{
+"text": "如何申请华信奖学金？",
+"intent": "065",
+"entities": []
+},
+{
+"text": "华信奖学金如何评选？",
+"intent": "065",
+"entities": []
+},
+{
+"text": "广东提前一批全额奖学金获得要求是什么？",
+"intent": "066",
+"entities": []
+},
+{
+"text": "广东省全额奖学金的要求是什么？",
+"intent": "066",
+"entities": []
+},
+{
+"text": "广东省考生达到什么分数才能获得全额奖学金？",
+"intent": "066",
+"entities": []
+},
+{
+"text": "广东省全额奖学金分数线是多少？",
+"intent": "066",
+"entities": []
+},
+{
+"text": "广东提前一批半额奖学金获得要求是什么？",
+"intent": "067",
+"entities": []
+},
+{
+"text": "广东省半额奖学金的要求是什么？",
+"intent": "067",
+"entities": []
+},
+{
+"text": "广东省考生达到什么分数才能获得半额奖学金？",
+"intent": "067",
+"entities": []
+},
+{
+"text": "广东省半额奖学金分数线是多少？",
+"intent": "067",
+"entities": []
+},
+{
+"text": "珠海籍新生奖学金获得要求是什么？",
+"intent": "068",
+"entities": []
+},
+{
+"text": "珠海新生奖学金分数线是多少？",
+"intent": "068",
+"entities": []
+},
+{
+"text": "珠海新生达到什么分数才能获得奖学金？",
+"intent": "068",
+"entities": []
+},
+{
+"text": "珠海新生的奖学金政策？",
+"intent": "068",
+"entities": []
+},
+{
+"text": "广东综合评价录取奖学金获得要求是什么？",
+"intent": "069",
+"entities": []
+},
+{
+"text": "综合评价奖学金要求是什么？",
+"intent": "069",
+"entities": []
+},
+{
+"text": "综合评价分数达到多少可以获得奖学金？",
+"intent": "069",
+"entities": []
+},
+{
+"text": "综合评价奖学金的分数线是多少？",
+"intent": "069",
+"entities": []
+},
+{
+"text": "奖学金续得有什么要求？",
+"intent": "070",
+"entities": []
+},
+{
+"text": "保持奖学金获得的要求是什么？",
+"intent": "070",
+"entities": []
+},
+{
+"text": "奖学金是持续获得的吗？",
+"intent": "070",
+"entities": []
+},
+{
+"text": "如何保持获得奖学金？",
+"intent": "070",
+"entities": []
+},
+{
+"text": "UIC设有哪些在校奖助学金？",
+"intent": "071",
+"entities": []
+},
+{
+"text": "奖学金和助学金？",
+"intent": "071",
+"entities": []
+},
+{
+"text": "UIC有哪些奖学金？",
+"intent": "071",
+"entities": []
+},
+{
+"text": "UIC的助学金有哪些？",
+"intent": "071",
+"entities": []
+},
+{
+"text": "UIC设有助学金吗？",
+"intent": "071",
+"entities": []
+},
+{
+"text": "专业及课程如何设置？",
+"intent": "072",
+"entities": []
+},
+{
+"text": "UIC的专业和课程是怎么安排的？",
+"intent": "072",
+"entities": []
+},
+{
+"text": "UIC的课程是怎样的？",
+"intent": "072",
+"entities": []
+},
+{
+"text": "各专业的课程设置是怎样的？",
+"intent": "072",
+"entities": []
+},
+{
+"text": "教学质量怎么保证？",
+"intent": "073",
+"entities": []
+},
+{
+"text": "如何保证教学质量？",
+"intent": "073",
+"entities": []
+},
+{
+"text": "教学质量可以保证吗？",
+"intent": "073",
+"entities": []
+},
+{
+"text": "UIC的教学质量如何？",
+"intent": "073",
+"entities": []
+},
+{
+"text": "北师港浸大的教学质量怎样？",
+"intent": "073",
+"entities": []
+},
+{
+"text": "贵校颁发的香港浸会大学学士学位证书为什么有“荣誉”二字？",
+"intent": "074",
+"entities": []
+},
+{
+"text": "该校学士学位证书上“荣誉”二字是什么意思？",
+"intent": "074",
+"entities": []
+},
+{
+"text": "学士学位证书上的“荣誉”有什么含义？",
+"intent": "074",
+"entities": []
+},
+{
+"text": "UIC的教育模式是怎样的？",
+"intent": "075",
+"entities": []
+},
+{
+"text": "可以说一下学校的教育模式吗？",
+"intent": "075",
+"entities": []
+},
+{
+"text": "UIC采用什么样的教育模式？",
+"intent": "075",
+"entities": []
+},
+{
+"text": "学校的教育模式如何？",
+"intent": "075",
+"entities": []
+},
+{
+"text": "什么是博雅教育？",
+"intent": "076",
+"entities": []
+},
+{
+"text": "博雅教育是什么？",
+"intent": "076",
+"entities": []
+},
+{
+"text": "博雅教育包含什么？",
+"intent": "076",
+"entities": []
+},
+{
+"text": "博雅教育的含义？",
+"intent": "076",
+"entities": []
+},
+{
+"text": "博雅教育是什么意思？",
+"intent": "076",
+"entities": []
+},
+{
+"text": "什么是全人教育？",
+"intent": "077",
+"entities": []
+},
+{
+"text": "全人教育是什么？",
+"intent": "077",
+"entities": []
+},
+{
+"text": "全人教育包含什么？",
+"intent": "077",
+"entities": []
+},
+{
+"text": "什么样的教育是全人教育？",
+"intent": "077",
+"entities": []
+},
+{
+"text": "全人教育的含义？",
+"intent": "077",
+"entities": []
+},
+{
+"text": "全人教育是什么意思？",
+"intent": "077",
+"entities": []
+},
+{
+"text": "什么是四维教育？",
+"intent": "078",
+"entities": []
+},
+{
+"text": "四维教育是什么？",
+"intent": "078",
+"entities": []
+},
+{
+"text": "四维教育包含什么？",
+"intent": "078",
+"entities": []
+},
+{
+"text": "什么样的教育是四维教育？",
+"intent": "078",
+"entities": []
+},
+{
+"text": "四维教育的含义？",
+"intent": "078",
+"entities": []
+},
+{
+"text": "四维教育是什么意思？",
+"intent": "078",
+"entities": []
+},
+{
+"text": "学生入读后能否适应UIC的全英文教学环境？",
+"intent": "079",
+"entities": []
+},
+{
+"text": "全英文教学好适应吗？",
+"intent": "079",
+"entities": []
+},
+{
+"text": "全英教学无法适应怎么办？",
+"intent": "079",
+"entities": []
+},
+{
+"text": "学生容易适应全英教学吗？",
+"intent": "079",
+"entities": []
+},
+{
+"text": " 宿舍情况怎么样？",
+"intent": "080",
+"entities": []
+},
+{
+"text": "住宿条件怎么样？",
+"intent": "080",
+"entities": []
+},
+{
+"text": "宿舍有什么活动？",
+"intent": "080",
+"entities": []
+},
+{
+"text": "你们的苑舍制度是什么？",
+"intent": "080",
+"entities": []
+},
+{
+"text": "学校提供哪些辅导及个人成长帮助?",
+"intent": "081",
+"entities": []
+},
+{
+"text": "学校是否有学业辅导？",
+"intent": "081",
+"entities": []
+},
+{
+"text": "学业上遇到困难怎么办？",
+"intent": "081",
+"entities": []
+},
+{
+"text": "学校是否有心理辅导？",
+"intent": "081",
+"entities": []
+},
+{
+"text": "辅导制度是什么？",
+"intent": "081",
+"entities": []
+},
+{
+"text": "出国的途径有哪些？",
+"intent": "082",
+"entities": []
+},
+{
+"text": "有什么出国的机会吗？",
+"intent": "082",
+"entities": []
+},
+{
+"text": "有没有交流的机会？",
+"intent": "082",
+"entities": []
+},
+{
+"text": "是否可以出国留学？",
+"intent": "082",
+"entities": []
+},
+{
+"text": "海外交流的机会多吗？",
+"intent": "082",
+"entities": []
+},
+{
+"text": "学校是2+2吗？",
+"intent": "083",
+"entities": []
+},
+{
+"text": "是2年内地2年香港吗？",
+"intent": "083",
+"entities": []
+},
+{
+"text": "学校有2+2培养吗？",
+"intent": "083",
+"entities": []
+},
+{
+"text": "副修课程有哪些？",
+"intent": "084",
+"entities": []
+},
+{
+"text": "学校有什么选修吗？",
+"intent": "084",
+"entities": []
+},
+{
+"text": "选修课程有哪些？",
+"intent": "084",
+"entities": []
+},
+{
+"text": "除了专业课还有什么课程？",
+"intent": "084",
+"entities": []
+},
+{
+"text": "可以选修到哪些课程？",
+"intent": "084",
+"entities": []
+},
+{
+"text": "在UIC可修读什么小语种？",
+"intent": "085",
+"entities": []
+},
+{
+"text": "要修小语种吗？",
+"intent": "085",
+"entities": []
+},
+{
+"text": "要学其他语言吗？",
+"intent": "085",
+"entities": []
+},
+{
+"text": "可以修小语种吗？",
+"intent": "085",
+"entities": []
+},
+{
+"text": "可以学日语、韩语、西班牙语、德语或法语吗？",
+"intent": "085",
+"entities": []
+},
+{
+"text": "UIC暑期多久？",
+"intent": "086",
+"entities": []
+},
+{
+"text": "暑假很长吗？",
+"intent": "086",
+"entities": []
+},
+{
+"text": "暑假有多长？",
+"intent": "086",
+"entities": []
+},
+{
+"text": "期末考试在什么时候？",
+"intent": "086",
+"entities": []
+},
+{
+"text": "暑期时间有多少？",
+"intent": "086",
+"entities": []
+},
+{
+"text": "什么是暑期课程？",
+"intent": "087",
+"entities": []
+},
+{
+"text": "有暑期课程吗？",
+"intent": "087",
+"entities": []
+},
+{
+"text": "暑期课程有多久？",
+"intent": "087",
+"entities": []
+},
+{
+"text": "有什么暑期课程？",
+"intent": "087",
+"entities": []
+},
+{
+"text": "暑期课程有哪些？",
+"intent": "087",
+"entities": []
+},
+{
+"text": " 海外暑期课程有哪些国家？",
+"intent": "088",
+"entities": []
+},
+{
+"text": "海外暑期课程有什么内容？",
+"intent": "088",
+"entities": []
+},
+{
+"text": "海外暑期课程可以学什么？",
+"intent": "088",
+"entities": []
+},
+{
+"text": "海外暑期有哪些国家可以去？",
+"intent": "088",
+"entities": []
+},
+{
+"text": "海外暑期课程可以去哪里？",
+"intent": "088",
+"entities": []
+},
+{
+"text": "海外暑期课程有哪些学校？",
+"intent": "089",
+"entities": []
+},
+{
+"text": "海外暑期课程可以去哪些学校？",
+"intent": "089",
+"entities": []
+},
+{
+"text": "海外暑期课程和哪些学校合作的？",
+"intent": "089",
+"entities": []
+},
+{
+"text": "海外暑期课程可以去英国牛津大学、美国康奈尔大学、加拿大英属哥伦比亚大学、西班牙艾赛德商学院吗？",
+"intent": "089",
+"entities": []
+},
+{
+"text": "海外课程有哪些学校可以去？",
+"intent": "089",
+"entities": []
+},
+{
+"text": "海外暑期课程学习多久？",
+"intent": "090",
+"entities": []
+},
+{
+"text": "海外暑期课程有多久？",
+"intent": "090",
+"entities": []
+},
+{
+"text": "海外暑期课程要多长时间？",
+"intent": "090",
+"entities": []
+},
+{
+"text": "海外暑期课程是什么时候？",
+"intent": "090",
+"entities": []
+},
+{
+"text": "什么时候开始海外暑期课程？",
+"intent": "090",
+"entities": []
+},
+{
+"text": "海外暑期课程费用多少？",
+"intent": "091",
+"entities": []
+},
+{
+"text": "海外暑期课程要多少钱？",
+"intent": "091",
+"entities": []
+},
+{
+"text": "海外暑期课程花费大概是多少？",
+"intent": "091",
+"entities": []
+},
+{
+"text": "海外暑期课程要花多少钱？",
+"intent": "091",
+"entities": []
+},
+{
+"text": "海外暑期课程价格是多少？",
+"intent": "091",
+"entities": []
+},
+{
+"text": "海外暑期课程有学分吗？可以转学分吗？",
+"intent": "092",
+"entities": []
+},
+{
+"text": "海外暑期课程学分怎么样？",
+"intent": "092",
+"entities": []
+},
+{
+"text": "海外暑期课程是否能转学分？",
+"intent": "092",
+"entities": []
+},
+{
+"text": "海外暑期课程可以得到学分吗？",
+"intent": "092",
+"entities": []
+},
+{
+"text": "海外暑期课程的学分大概怎么样？",
+"intent": "092",
+"entities": []
+},
+{
+"text": "暑期课程是必须参加的吗？",
+"intent": "093",
+"entities": []
+},
+{
+"text": "一定要参加暑期课程吗？",
+"intent": "093",
+"entities": []
+},
+{
+"text": "参加暑期课程的人多吗？",
+"intent": "093",
+"entities": []
+},
+{
+"text": "暑期课程是自愿参加的吗？",
+"intent": "093",
+"entities": []
+},
+{
+"text": "暑期课程参与度怎么样？",
+"intent": "093",
+"entities": []
+},
+{
+"text": "在UIC暑假，学生只是去修暑期课程吗？",
+"intent": "094",
+"entities": []
+},
+{
+"text": "暑假怎么安排？",
+"intent": "094",
+"entities": []
+},
+{
+"text": "暑假有哪些活动？",
+"intent": "094",
+"entities": []
+},
+{
+"text": "除了暑期课程还有什么选择？",
+"intent": "094",
+"entities": []
+},
+{
+"text": "暑期有实践活动吗？",
+"intent": "094",
+"entities": []
+},
+{
+"text": "交换生项目有哪些国家、学校？",
+"intent": "095",
+"entities": []
+},
+{
+"text": "交换生项目有哪些？",
+"intent": "095",
+"entities": []
+},
+{
+"text": "交换生可以去哪里？",
+"intent": "095",
+"entities": []
+},
+{
+"text": "交换生有哪些选择？",
+"intent": "095",
+"entities": []
+},
+{
+"text": "交换生可以去哪里学习？",
+"intent": "095",
+"entities": []
+},
+{
+"text": "大几可申请交换生？",
+"intent": "096",
+"entities": []
+},
+{
+"text": "几年级可以申请交换生？",
+"intent": "096",
+"entities": []
+},
+{
+"text": "什么时候可以去交换？",
+"intent": "096",
+"entities": []
+},
+{
+"text": "大几可以参加交换生计划？",
+"intent": "096",
+"entities": []
+},
+{
+"text": "大一可以申请交换生吗？",
+"intent": "096",
+"entities": []
+},
+{
+"text": "申请交换生什么条件？",
+"intent": "097",
+"entities": []
+},
+{
+"text": "交换生有什么要求？",
+"intent": "097",
+"entities": []
+},
+{
+"text": "交换生应该满足那些条件？",
+"intent": "097",
+"entities": []
+},
+{
+"text": "交换生的要求有哪些？",
+"intent": "097",
+"entities": []
+},
+{
+"text": "怎样申请交换生？",
+"intent": "097",
+"entities": []
+},
+{
+"text": "交换生可以出去学习多久？",
+"intent": "098",
+"entities": []
+},
+{
+"text": "交换生学习时间有多长？",
+"intent": "098",
+"entities": []
+},
+{
+"text": "交换生的学期有多长？",
+"intent": "098",
+"entities": []
+},
+{
+"text": "交换生可以去多久？",
+"intent": "098",
+"entities": []
+},
+{
+"text": "交换生可以交换多久？",
+"intent": "098",
+"entities": []
+},
+{
+"text": "交换生的费用？",
+"intent": "099",
+"entities": []
+},
+{
+"text": "交换生要花多少钱？",
+"intent": "099",
+"entities": []
+},
+{
+"text": "交换生的花费是多少？",
+"intent": "099",
+"entities": []
+},
+{
+"text": "交换生的学费是多少？",
+"intent": "099",
+"entities": []
+},
+{
+"text": "交换生的价格是多少？",
+"intent": "099",
+"entities": []
+},
+{
+"text": "为什么要申请交换生？",
+"intent": "100",
+"entities": []
+},
+{
+"text": "交换生有什么意义？",
+"intent": "100",
+"entities": []
+},
+{
+"text": "交换生能得到什么？",
+"intent": "100",
+"entities": []
+},
+{
+"text": "交换生可以收获什么？",
+"intent": "100",
+"entities": []
+},
+{
+"text": "交换生是什么体验？",
+"intent": "100",
+"entities": []
+},
+{
+"text": "交换生的名额？",
+"intent": "101",
+"entities": []
+},
+{
+"text": "交换生的人数多吗？",
+"intent": "101",
+"entities": []
+},
+{
+"text": "交换生有多少人？",
+"intent": "101",
+"entities": []
+},
+{
+"text": "有多少人可以成为交换生？",
+"intent": "101",
+"entities": []
+},
+{
+"text": "每年有多少个交换生？",
+"intent": "101",
+"entities": []
+},
+{
+"text": "UIC管理严格吗？",
+"intent": "102",
+"entities": []
+},
+{
+"text": "管理制度怎么样？",
+"intent": "102",
+"entities": []
+},
+{
+"text": "学校的处罚制度怎么样？",
+"intent": "102",
+"entities": []
+},
+{
+"text": "学校是否严格？",
+"intent": "102",
+"entities": []
+},
+{
+"text": "学校的规定是否严格？",
+"intent": "102",
+"entities": []
+},
+{
+"text": "出勤率规定？",
+"intent": "103",
+"entities": []
+},
+{
+"text": "上课签到的规定？",
+"intent": "103",
+"entities": []
+},
+{
+"text": "出勤率的处罚规则？",
+"intent": "103",
+"entities": []
+},
+{
+"text": "出勤有什么要求吗？",
+"intent": "103",
+"entities": []
+},
+{
+"text": "学校对学生上课出勤有要求吗？",
+"intent": "103",
+"entities": []
+},
+{
+"text": "学生会被退学吗？",
+"intent": "104",
+"entities": []
+},
+{
+"text": "学校的学术规定？",
+"intent": "104",
+"entities": []
+},
+{
+"text": "对于绩点的处罚是什么样的？",
+"intent": "104",
+"entities": []
+},
+{
+"text": "学校对GPA的要求？",
+"intent": "104",
+"entities": []
+},
+{
+"text": "学校对GPA的处罚有哪些？",
+"intent": "104",
+"entities": []
+},
+{
+"text": "GPA是怎么计算的？",
+"intent": "105",
+"entities": []
+},
+{
+"text": "GPA是什么？",
+"intent": "105",
+"entities": []
+},
+{
+"text": "怎么算GPA？",
+"intent": "105",
+"entities": []
+},
+{
+"text": "绩点怎么计算？",
+"intent": "105",
+"entities": []
+},
+{
+"text": "绩点是什么？",
+"intent": "105",
+"entities": []
+},
+{
+"text": "UIC评分体系？",
+"intent": "106",
+"entities": []
+},
+{
+"text": "学校怎么评分的？",
+"intent": "106",
+"entities": []
+},
+{
+"text": "课程怎么评分？",
+"intent": "106",
+"entities": []
+},
+{
+"text": "课程的成绩是怎样的？",
+"intent": "106",
+"entities": []
+},
+{
+"text": "怎样评分？",
+"intent": "106",
+"entities": []
+},
+{
+"text": "毕业证书学分要求？",
+"intent": "107",
+"entities": []
+},
+{
+"text": "毕业的要求？",
+"intent": "107",
+"entities": []
+},
+{
+"text": "毕业的学分有什么要求？",
+"intent": "107",
+"entities": []
+},
+{
+"text": "毕业要拿到多少学分？",
+"intent": "107",
+"entities": []
+},
+{
+"text": "毕业证书要满足什么条件？",
+"intent": "107",
+"entities": []
+},
+{
+"text": "学位证书成绩要求？",
+"intent": "108",
+"entities": []
+},
+{
+"text": "学位证书的成绩要达到多少？",
+"intent": "108",
+"entities": []
+},
+{
+"text": "学士学位要拿到多少分？",
+"intent": "108",
+"entities": []
+},
+{
+"text": "学位证书有什么要求？",
+"intent": "108",
+"entities": []
+},
+{
+"text": "学位证书要满足什么条件？",
+"intent": "108",
+"entities": []
+},
+{
+"text": "学位证书等级分类？",
+"intent": "109",
+"entities": []
+},
+{
+"text": "学位等级怎么划分？",
+"intent": "109",
+"entities": []
+},
+{
+"text": "学位的等级怎么样？",
+"intent": "109",
+"entities": []
+},
+{
+"text": "学位证书有哪些？",
+"intent": "109",
+"entities": []
+},
+{
+"text": "学位证书的等级？",
+"intent": "109",
+"entities": []
+},
+{
+"text": "会计学专业的专业认证是指什么？",
+"intent": "110",
+"entities": []
+},
+{
+"text": "会计学专业认证是什么？",
+"intent": "110",
+"entities": []
+},
+{
+"text": "会计学认证怎么拿到？",
+"intent": "110",
+"entities": []
+},
+{
+"text": "有没有会计学专业认证？",
+"intent": "110",
+"entities": []
+},
+{
+"text": "会计学专业认证的条件？",
+"intent": "110",
+"entities": []
+},
+{
+"text": " UIC的课程结构和国内的大学有差别吗？",
+"intent": "111",
+"entities": []
+},
+{
+"text": "课程和其他大学有什么不同？",
+"intent": "111",
+"entities": []
+},
+{
+"text": "课程有什么特别？",
+"intent": "111",
+"entities": []
+},
+{
+"text": "有什么特别的课程结构？",
+"intent": "111",
+"entities": []
+},
+{
+"text": "课程结构怎么样？",
+"intent": "111",
+"entities": []
+},
+{
+"text": "同学在校期间可以去香港浸会大学吗？",
+"intent": "112",
+"entities": []
+},
+{
+"text": "会到本部学习吗？",
+"intent": "112",
+"entities": []
+},
+{
+"text": "有机会去浸会吗？",
+"intent": "112",
+"entities": []
+},
+{
+"text": "可以去本部学习吗？",
+"intent": "112",
+"entities": []
+},
+{
+"text": "有没有机会去本部学习？",
+"intent": "112",
+"entities": []
+},
+{
+"text": "大几可参加HKBU暑期课程？",
+"intent": "113",
+"entities": []
+},
+{
+"text": "什么时候可以参加浸会暑期课程？",
+"intent": "113",
+"entities": []
+},
+{
+"text": "大几可以去本部的暑期课程？",
+"intent": "113",
+"entities": []
+},
+{
+"text": "参加浸会暑期课程的条件？",
+"intent": "113",
+"entities": []
+},
+{
+"text": "都可以参加本部暑期课程吗？",
+"intent": "113",
+"entities": []
+},
+{
+"text": "香港浸会大学暑期课程报名绩点要求？",
+"intent": "114",
+"entities": []
+},
+{
+"text": "本部暑期课程的绩点要求？",
+"intent": "114",
+"entities": []
+},
+{
+"text": "去本部暑期课程的学分条件？",
+"intent": "114",
+"entities": []
+},
+{
+"text": "去浸会暑期课程的学分条件？",
+"intent": "114",
+"entities": []
+},
+{
+"text": "去浸会大学的GPA要求？",
+"intent": "114",
+"entities": []
+},
+{
+"text": "香港浸会大学暑期课程费用大概多少？",
+"intent": "115",
+"entities": []
+},
+{
+"text": "本部的暑期课程多少钱？",
+"intent": "115",
+"entities": []
+},
+{
+"text": "浸会的暑期课程花费是多少？",
+"intent": "115",
+"entities": []
+},
+{
+"text": "本部的暑期课程价格怎么样？",
+"intent": "115",
+"entities": []
+},
+{
+"text": "浸会的暑期课程要花多少钱？",
+"intent": "115",
+"entities": []
+},
+{
+"text": "香港浸会大学暑期课程学习多久？",
+"intent": "116",
+"entities": []
+},
+{
+"text": "本部的暑期课程时间多长？",
+"intent": "116",
+"entities": []
+},
+{
+"text": "浸会的暑期课程在什么时候？",
+"intent": "116",
+"entities": []
+},
+{
+"text": "浸会的暑期课程从什么时候到什么时候？",
+"intent": "116",
+"entities": []
+},
+{
+"text": "香港浸会大学暑期课程学分可转吗？",
+"intent": "117",
+"entities": []
+},
+{
+"text": "本部暑期课程学分可以转吗？",
+"intent": "117",
+"entities": []
+},
+{
+"text": "学生申请香港浸会大学研究生有优势吗？",
+"intent": "118",
+"entities": []
+},
+{
+"text": "申请本部研究生有什么优势？",
+"intent": "118",
+"entities": []
+},
+{
+"text": "可以申请浸会研究生吗？",
+"intent": "118",
+"entities": []
+},
+{
+"text": "浸会研究生？",
+"intent": "118",
+"entities": []
+},
+{
+"text": "本部读研？",
+"intent": "118",
+"entities": []
+},
+{
+"text": "毕业生去海外读研的多吗？",
+"intent": "119",
+"entities": []
+},
+{
+"text": "毕业生去向？",
+"intent": "119",
+"entities": []
+},
+{
+"text": "毕业生读研的情况？",
+"intent": "119",
+"entities": []
+},
+{
+"text": "毕业以后去哪里的多？",
+"intent": "119",
+"entities": []
+},
+{
+"text": "毕业走向？",
+"intent": "119",
+"entities": []
+},
+{
+"text": "申请海外研究生学校会提供帮助吗？",
+"intent": "120",
+"entities": []
+},
+{
+"text": "怎样申研？",
+"intent": "120",
+"entities": []
+},
+{
+"text": "海外读研有什么帮助？",
+"intent": "120",
+"entities": []
+},
+{
+"text": "国外研究生有什么申请帮助？",
+"intent": "120",
+"entities": []
+},
+{
+"text": "申请研究生有什么益处吗？",
+"intent": "120",
+"entities": []
+},
