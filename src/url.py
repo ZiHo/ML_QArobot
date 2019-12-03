@@ -9,7 +9,7 @@ def getAnswer(intentNum):
     alist = np.array(data[["answer"]])
     totalAnswer = alist[int(intentNum) - 1]
     answer = str(totalAnswer)[2:len(str(alist[int(intentNum) - 1])) - 2]
-    print(answer)
+    print(str(answer).replace("\\n", "\n"))
 
 
 def getIntent(question):
