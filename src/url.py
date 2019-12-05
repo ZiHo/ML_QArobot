@@ -20,5 +20,5 @@ def getIntent(question):
     intent = azure_answer['topScoringIntent']['intent']
     # print(azure_answer['query'])
     # print(azure_answer['topScoringIntent']['intent'])
-    # print(azure_answer['topScoringIntent']['score'])
+    print(azure_answer['topScoringIntent']['score'])
     getAnswer(intent)
